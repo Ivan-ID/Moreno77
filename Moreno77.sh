@@ -76,8 +76,7 @@ sh Moreno77.sh
 ;;
 
 5) clear
-cd $HOME/Moreno77/data
-mv HackCamera /sdcard/HackCamera
+
 cd /sdcard/HackCamera
 bash Moreno77.sh
 ;;
