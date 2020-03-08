@@ -8,6 +8,7 @@ clear
 pkg install python2
 clear
 pip2 install requests
+pip install requests
 clear
 pip2 install mechanize
 clear
